@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 300px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+div {
+    padding: 5px;
+    text-align: center;
+}
+
+h1,
+div {
+    border: 1px solid white;
+}
