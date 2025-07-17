@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+h1 {
+    text-align: center;
+    margin-right: 50px;
+    background-color: skyblue;
+    color: white;
+    margin: 5px;
+}
+
+div {
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+}
+
+li {
+    margin-left: 20px;
+}
